@@ -3,26 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Dr-clef.github.io/</loc>
-    <lastmod>2020-09-13T07:46:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/post/</loc>
-    <lastmod>2020-09-13T07:46:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/post/test/</loc>
-    <lastmod>2020-09-13T07:46:07+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Dr-clef.github.io/categories/</loc>
   </url>
   
   <url>
+    <loc>https://Dr-clef.github.io/post/mengde/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/post/taibai/</loc>
   </url>
   
 </urlset>
