@@ -15,7 +15,23 @@
   </url>
   
   <url>
+    <loc>https://Dr-clef.github.io/en/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/author/nelson-bighetti/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/en/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/zh/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/en/post/</loc>
   </url>
   
   <url>
@@ -23,7 +39,15 @@
   </url>
   
   <url>
+    <loc>https://Dr-clef.github.io/zh/post/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/en/publication/</loc>
   </url>
   
   <url>
@@ -31,11 +55,27 @@
   </url>
   
   <url>
+    <loc>https://Dr-clef.github.io/zh/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/en/talk/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/talk/</loc>
   </url>
   
   <url>
+    <loc>https://Dr-clef.github.io/zh/talk/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/zh/</loc>
   </url>
   
 </urlset>
