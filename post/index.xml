@@ -1,43 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts | Academic</title>
     <link>https://Dr-clef.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://Dr-clef.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>jidao</title>
-      <link>https://Dr-clef.github.io/post/jidao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Dr-clef.github.io/post/jidao/</guid>
-      <description>无可奈何花落去、似曾相识燕归来、小园香径独徘徊</description>
-    </item>
-    
-    <item>
-      <title>mengde</title>
-      <link>https://Dr-clef.github.io/post/mengde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Dr-clef.github.io/post/mengde/</guid>
-      <description>慨当以慷、忧思难忘、何以解忧、唯有杜康
-王祺丰</description>
-    </item>
-    
-    <item>
-      <title>taibai</title>
-      <link>https://Dr-clef.github.io/post/taibai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Dr-clef.github.io/post/taibai/</guid>
-      <description>天姥连天向天横，势拔五岳掩赤城，天台四万八千丈，对此欲倒东南倾
-王祺丰</description>
-    </item>
+      <atom:link href="https://Dr-clef.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://Dr-clef.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://Dr-clef.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://Dr-clef.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/authors/</loc>
+  </url>
+  
+  <url>
     <loc>https://Dr-clef.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://Dr-clef.github.io/post/jidao/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/post/mengde/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/</loc>
+    <loc>https://Dr-clef.github.io/author/nelson-bighetti/</loc>
   </url>
   
   <url>
@@ -23,11 +23,19 @@
   </url>
   
   <url>
-    <loc>https://Dr-clef.github.io/tags/</loc>
+    <loc>https://Dr-clef.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://Dr-clef.github.io/post/taibai/</loc>
+    <loc>https://Dr-clef.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Dr-clef.github.io/tags/</loc>
   </url>
   
 </urlset>

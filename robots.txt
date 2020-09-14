@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://Dr-clef.github.io/sitemap.xml
