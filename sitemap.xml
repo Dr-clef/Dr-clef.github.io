@@ -1,81 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://Dr-clef.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/en/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/en/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/zh/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/en/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/zh/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/en/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/zh/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/en/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/zh/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Dr-clef.github.io/zh/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://Dr-clef.github.io/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://Dr-clef.github.io/zh/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
